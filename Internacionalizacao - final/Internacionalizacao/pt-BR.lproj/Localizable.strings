@@ -1,0 +1,14 @@
+/*
+ Localizable.strings
+ Internacionalizacao
+ 
+ Created by Marcello Chuahy on 27/08/20.
+ Copyright © 2020 Applause Codes. All rights reserved.
+ */
+
+// IMPORTANT:
+// Localizable.strings is the default filename iOS uses for localized text. Don't rename it.
+// .strings file requires that each line terminate with a semicolon.
+
+// KEY -------- TRANSLATION
+"Hello, World!" = "Olá, Mundo!";
